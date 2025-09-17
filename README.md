@@ -31,8 +31,5 @@ Exploring additional features or engineering new ones to improve predictive powe
 
 Further iteration and refinement of the model and analysis to achieve better performance.
 
-Dataset
-The dataset used for this project can be found here:
-https://github.com/YBIFoundation/Dataset/raw/main/Customer%20Purchase.csv
 
 Author: AMIT RAI
